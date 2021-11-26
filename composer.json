@@ -1,0 +1,21 @@
+{
+    "name": "michaeljoe/hello-world",
+    "description": "demo composer",
+    "keywords": ["demo composer"],
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Michaeljoe\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "authors": [
+        {
+            "name": "michaeljoe",
+            "email": "raden.michael@mail.sirclo.com"
+        }
+    ],
+    "license": "MIT"
+}
