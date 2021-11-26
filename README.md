@@ -1,4 +1,4 @@
-# Demo composer halo dunia
+# Demo composer hello world
 
 demo composer Hello World untuk akademi batch 2
 
