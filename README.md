@@ -12,7 +12,7 @@ demo composer Hello World untuk akademi batch 2
 Via Composer
 
 ``` bash
-$ composer require michaeljoe/hello-world
+$ composer require michaeljoedhitya/hello-world
 ```
 
 ## Usage
